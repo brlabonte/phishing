@@ -11,3 +11,4 @@ The second part of my project was sent a simulated phishing test sent out to the
 The primary objective of this project was to track the behavior of multiple users when opening a simulated phishing email. I wanted to see the reaction of a "too good to be true" email, and the reaction of an email that may cause panic because something went wrong. When being prompted with over excitement or increased stress, do people ignore the suspicious red flags within the email, or will they notice the red flags and proceed with caution. 
 
 ## Project Relevance
+[![Amazon Package Delay](amazon_package_delay_phish.png)](amazon_package_delay_phish.png)
