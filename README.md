@@ -65,4 +65,29 @@ I chose this topic because it is extremely relavent in todays society, everyone 
 - Collect and analyze the data from the KnowBe4 dashboard.
 
 [![KnowBe4 Overview](knowbe4_overview.png)](knowbe4_overview.png)
+
+## Results
+### Personal Simulated Phishing Test
+- Total Participants = 10
+- Total Emails Opened = 5
+- Total Clicks = 1
+- Clickrate = 10%
+- Reasoning = They were expecting an Amazon package that same day
+- Feedback On The Phish Emails = 5 out of 10 people could tell it was fake solely based off of the email address that I sent it from. 4 out of 10 hovered over the link and realized that it didn't bring you to a verified source, i.e Amazon's website. 
+
+[![Google Form Results](google_form_results.png)](google_form_results.png)
+
+### KnowBe4 Simulated Phishing Test
+- Total Participants = 284
+- Total Emails Opened = 72
+- Total Clicks = 8
+- Clickrate = 2.8%
+- Attachments Opened = 1
+- Feedback = Many employees reported the suspected phish emails to ITHelp for further investigation, however, some clicked on the links or attachments believing the email was legitimate.
+
 [![KnowBe4 November Statistics](knowbe4_november_statistics.png)](knowbe4_november_statistics.png)
+
+## Conclusion
+This phishing simulation project was extremely eye opening and educational. It demonstrated how bad actors can trick innocent people into clicking on links and attachments in emails, whether it is because the email looks extremely legitimate, or because the person is receiving a package that same day by the luck of the draw. I believe this project demonstrates the great risk that humans pose as vulnerabilities to their own cybersecurity presence on the internet, or the presence of the company they work for. Humans rely on stimulations and feelings every second of their life, if you receive an email saying you won free money, and you really need that money, you may not think twice and blindly click. That same thing goes for stress, if you are expecting a package to be delivered and you receive an email stating something went wrong, you may become extremely stressed and blindly click. Not taking the time to confirm an email is legitimate could be the difference between a bad actor gaining full access into your life or you remaining safe on the internet. It may sound extreme, but it is the truth.
+
+Some potential next steps would be to make sure everyone remains educated on phishing emails, especially those who clicked the links or attachments within both demonstrations of this project. Something that I think would be interesting would be to compare which phishing variations get the most interactions and clicks, is it stress based, reward based, or totally unrelated. Overall, continuing simulated phishing tests at companies is crucial because all it takes is one mistake and the integrity of the company or person is at risk.
