@@ -16,3 +16,51 @@ As stated earlier, phishing is one of the most persistent threats in the cyber w
 Human decision-making plays a major role within phishing attacks. Being able to tell whats real vs whats fake is crucial and can make the difference between being safe on the internet, or losing access to your entire internet presence. Many email providers provide email filtering which can help weed out a lot of spam, but if the email makes it into your inbox, you need to be able to tell the difference. This project is extremely relavent because humans make decisions every second of their life. Often times you hear people say if it's too good to be true, it probably isn't true. That plays a huge role in decision making when clicking on a phish. In my simulated phishing scenario, I sent out an email to 5 people offering a free $50 Amazon giftcard. There is no sign of who the giftcard was from, the email just states it was "from a friend". A simple hover over the hyperlink would show you that it is a phish, but some people may click the link right away because they want the free $50, who wouldn't? But clicking that free $50 could cost you.
 
 I chose this topic because it is extremely relavent in todays society, everyone is reliant on technology, and everyone has an email or a cellphone number to receive phishing messages to. Being able to educate close friends and family that may be unaware of the threats that are posed from a phishing email is extremely important as well. Oftentimes the bad actors target vulnerable groups of people. such as people who are older and may not be familiar with technology. To expand on this, most organizations have threat teams or people who investigate the consequences of someones actions when they click on a phish. I'd say about once a month I have to get on the phone with someone because they clicked on a malicious URL from a phishing email and I have to make sure they didn't enter in any passwords or download anything. Out of precaution, we have a set of steps that we do even if they claim they didn't do anything and 9 times out of 10 we reset their password and actively monitor their account to make sure there are no malicious sign ons. Having a simulation of malicious emails allows people to have an idea of what to expect, what not to click, and what to do if they did click a link or download something malicious.
+
+## Methodology
+### Personal Simulated Phishing Test
+#### Setup & Environment
+- I received consent from 10 volunteers to send a phishing email randomly within 30 days.
+- I created a new Gmail to send the simulated emails from.
+- I also created a Google Form to track who clicked on the phish, if anyone at all.
+#### Tools, Framework & Datasets Used
+- I used Gmail to send the phishing emails, as stated previously.
+- I used Google Forms to track the data, see if anyone clicked the link, and explain why they did.
+#### Architecture / Workflow
+- Created a phishing style email, one was about an incorrect Amazon delivery, the other was about a free $50 giftcard.
+- Created a simple Google Form with three questions that confirmed the participant clicked the link.
+- I created hyperlinks in the email so that the user wouldn't just see a link to a Google Form when reading the email.
+- I sent the emails out to the participants, 5 emails were the free $50 giftcard, the other 5 were about an incorrect Amazon delivery.
+- Lastly, I analyzed why the participants did or didn't click the link.
+#### Step-by-Step Process 
+- Drafted 2 simulated phishing emails, one was reward based, one was based off of urgency.
+- Built a simple Google Form titled Simulated Phish.
+- Added questions to the form asking for the participants name, did they think the email was legit, and why they clicked it.
+- Hyperlinked the form in the emails I sent so that it didn't show the link to the form.
+- Collected the responses I got from the form which showed how many participants clicked the email.
+- Analyzed the data I received.
+[![Amazon Package Delay](amazon_package_delay_phish.png)](amazon_package_delay_phish.png)
+[![Holiday Giftcard Phish](holiday_giftcard_phish.png)](holiday_giftcard_phish.png)
+
+### KnowBe4 Simulated Phishing Test
+#### Setup & Environment
+- I was granted KnowBe4 Admin access to work on and analyze the monthly simulated phishing tests conducted.
+- Ensured the dashboard was up-to-date to analyze the data.
+#### Tools, Framework & Datasets Used
+- KnowBe4 Security Platform
+- KnowBe4 Phishing Campaign
+- KnowBe4 Reporting & Analytics Dashboard
+- List of updated employee emails in the company, new hires updated, old emails removed, etc.
+#### Architecture / Workflow
+- Reviewed our previous months phishing trends to see what we need to improve on.
+- Launched the simulated phishing campaign to the assigned user group on our KnowBe4 Admin dashboard.
+- Monitor to make sure all emails were delivered successfully.
+- Analyzed the amount that we're open and the amount of links and attachments clicked.
+- Document the results, and ensure users are informed if they clicked a phishing link so that it can prevent them from doing so in the future.
+#### Step-by-Step Process
+- Make sure the user list of employees is updated in the KnowBe4 library.
+- Schedule the phishing campaign for a specific date.
+- Launch the phishing campaign and monitor for results, allowing employees to interact with the emails without being informed there is a phishing simulation going on.
+- Collect and analyze the data from the KnowBe4 dashboard.
+[![KnowBe4 Overview](knowbe4_overview.png)](knowbe4_overview.png)
+[![KnowBe4 November Statistics](knowbe4_november_statistics.png)](knowbe4_november_statistics.png)
