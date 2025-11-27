@@ -39,6 +39,7 @@ I chose this topic because it is extremely relavent in todays society, everyone 
 - Hyperlinked the form in the emails I sent so that it didn't show the link to the form.
 - Collected the responses I got from the form which showed how many participants clicked the email.
 - Analyzed the data I received.
+
 [![Amazon Package Delay](amazon_package_delay_phish.png)](amazon_package_delay_phish.png)
 [![Holiday Giftcard Phish](holiday_giftcard_phish.png)](holiday_giftcard_phish.png)
 
@@ -62,5 +63,6 @@ I chose this topic because it is extremely relavent in todays society, everyone 
 - Schedule the phishing campaign for a specific date.
 - Launch the phishing campaign and monitor for results, allowing employees to interact with the emails without being informed there is a phishing simulation going on.
 - Collect and analyze the data from the KnowBe4 dashboard.
+
 [![KnowBe4 Overview](knowbe4_overview.png)](knowbe4_overview.png)
 [![KnowBe4 November Statistics](knowbe4_november_statistics.png)](knowbe4_november_statistics.png)
